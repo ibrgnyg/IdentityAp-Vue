@@ -23,3 +23,8 @@ LOGİN PAGE
 
 
 ![errorlogin](https://user-images.githubusercontent.com/41470054/108610793-88862900-73e9-11eb-8f49-6e1122cdd184.png)
+
+
+PROFİLE PAGE
+
+![profile](https://user-images.githubusercontent.com/41470054/108610795-95a31800-73e9-11eb-9281-80391937d442.png)
